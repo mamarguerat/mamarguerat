@@ -3,7 +3,7 @@
 ## 🆔 About me
 
 - 📷 Photographer - ᴇᴏꜱ ʀ
-- 🏢 Electronics technician - ʜᴇɪᴀ-ꜰʀ
+- 🏢 Electronics engineer student - ʜᴇɪᴀ-ꜰʀ
 - 🎹 Music composer
 - 🎬 Content creator
 - 📍 Fribourg, Switzerland 🇨🇭
