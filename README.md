@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/martin-marguerat"><img src="https://img.shields.io/badge/-Martin_Marguerat-ffffff?style=for-the-badge&logo=Linkedin" alt="LinkedIn" /></a>
 <a href="https://twitter.com/mamarguerat"><img src="https://img.shields.io/badge/-@mamarguerat-ffffff?style=for-the-badge&logo=Twitter" alt="Twitter" /></a>
 <a href="https://join.skype.com/invite/geIzZ3LTfy01"><img src="https://img.shields.io/badge/-live:martin__1264-ffffff?style=for-the-badge&logo=Skype" alt="Skype" /></a>
-<a href="https://mamarguerat.github.io/website/social"><img src="https://img.shields.io/badge/-mamarguerat.github.io/website/social-ffffff?style=for-the-badge&logo=Wordpress" alt="Website" /></a>
+<a href="https://bio.martinmarguerat.ch/"><img src="https://img.shields.io/badge/-martinmarguerat.ch-ffffff?style=for-the-badge&logo=Wordpress" alt="Website" /></a>
 <a href="https://open.spotify.com/artist/539iJf28nN7hF8OFEFjPWR"><img src="https://img.shields.io/badge/-Martin_Marguerat-ffffff?style=for-the-badge&logo=Spotify" alt="Spotify" /></a>
 <a href="https://soundcloud.com/martin-marguerat"><img src="https://img.shields.io/badge/-Martin_Marguerat-ffffff?style=for-the-badge&logo=Soundcloud" alt="SoundCloud" /></a>
 <a href="https://paypal.me/mamarguerat"><img src="https://img.shields.io/badge/-paypal.me/mamarguerat-ffffff?style=for-the-badge&logo=Paypal" alt="PayPal" /></a>
