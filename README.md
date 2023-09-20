@@ -7,7 +7,7 @@
 - 🎹 Music composer
 - 🎬 Content creator
 - 📍 Fribourg, Switzerland 🇨🇭
-- 
+
 ## GitHub stats
 | General stats | Code stats |
 | - | - |
