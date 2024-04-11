@@ -9,9 +9,9 @@
 - 📍 Fribourg, Switzerland 🇨🇭
 
 ## GitHub stats
-| General stats | Code stats |
-| - | - |
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamarguerat&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/mamarguerat) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamarguerat&theme=transparent)](https://github.com/mamarguerat) |
+| General stats | Code stats | Code time |
+| - | - | - |
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamarguerat&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/mamarguerat) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamarguerat&theme=transparent&layout=compact)](https://github.com/mamarguerat) | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mamarguerat&layout=compact)](https://github.com/mamarguerat)
 
 ## Some social links...
 
